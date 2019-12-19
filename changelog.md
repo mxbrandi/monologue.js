@@ -1,3 +1,6 @@
+## v0.3.6
+* Upgrade `lodash` dependency from 3.x to 4.17.15 which fixes several security vulnerabilities.
+
 ## v0.3.5
 * Remove unnecessary _.bind call that seems to contribute to memory/garbage
 
