@@ -1,7 +1,7 @@
 {
   "name": "@huf/monologue.js",
   "description": "EventEmitter replacement with AMQP-style bindings and other advanced features. Compatible with postal.js's API.",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "homepage": "https://github.com/postaljs/monologue.js",
   "repository": {
     "type": "git",
